@@ -26,7 +26,7 @@ def run_scanner(host):
     '''
 
     st_port = 1
-    end_port = 5000
+    end_port = 100
 
     for port in xrange(st_port, end_port+1):
 
